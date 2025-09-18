@@ -1,6 +1,6 @@
 ## Fast Video Recoloring via Curve-based Palettes
 
-![](https://github.com/Zhengjun-Du/GeometricPaletteBasedVideoRecoloring/blob/main/teaser.png) 需要替换成 overview.pdf 的文件路径
+![](https://github.com/Zhengjun-Du/Fast_Video_Recoloring_via_Curve-based_Palettes/blob/main/teaser.png) 需要替换成 overview.pdf 的文件路径
 
 This is the source code of the paper: **Fast Video Recoloring via Curve-based Palettes**, authors: Zheng-Jun Du, Jia-Wei Zhou, Kang Li, Jian-Yu Hao, Zi-Kang Huang, Kun Xu*. Please fell free to contact us if you have any questions, email: dzj@qhu.edu.cn
 
@@ -32,7 +32,7 @@ Qt 5.12.12
 
    b) click "Import Palette", "Export Palette" and "Export Video" to import the color palette, export the color palette, and export the video, respectively. Imported and exported data are stored in "./files.txt".
 
-![](https://github.com/Zhengjun-Du/GeometricPaletteBasedVideoRecoloring/blob/main/recolor-ui.png) 需要替换成 GUI.png 的文件路径
+![](https://github.com/Zhengjun-Du/Fast_Video_Recoloring_via_Curve-based_Palettes/blob/main/GUI.png) 需要替换成 GUI.png 的文件路径
 
 ### References
 [1] Du Z J, Lei K X, Xu K, et al. Video recoloring via spatial-temporal geometric palettes[J]. ACM Trans. Graph., 2021, 40(4): 150:1-150:16.
