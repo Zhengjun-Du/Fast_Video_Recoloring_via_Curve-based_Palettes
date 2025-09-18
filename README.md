@@ -36,5 +36,7 @@ Qt 5.12.12
 
 ### References
 [1] Du Z J, Lei K X, Xu K, et al. Video recoloring via spatial-temporal geometric palettes[J]. ACM Trans. Graph., 2021, 40(4): 150:1-150:16.
+
 [2] H. Chang, O. Fried, Y. Liu, S. DiVerdi, and A. Finkelstein, “Palette-based photo recoloring.” ACM Trans. Graph., vol. 34, no. 4, pp. 139–1, 2015.
+
 [3] J. Tan, J.-M. Lien, and Y. Gingold, “Decomposing images into layers via RGB-space geometry,” ACM Transactions on Graphics (TOG), vol. 36, no. 1, pp. 1–14, 2016.
